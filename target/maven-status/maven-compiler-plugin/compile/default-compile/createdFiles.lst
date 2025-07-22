@@ -1,0 +1,8 @@
+com\voteguard\auth\VerificationServlet.class
+com\voteguard\servlet\VoteServlet.class
+com\voteguard\model\Aadhar.class
+com\voteguard\model\Voter.class
+com\voteguard\dao\DBUtil.class
+com\voteguard\servlet\ResultServlet.class
+com\voteguard\model\Vote.class
+com\voteguard\servlet\ThumbVerificationServlet.class
