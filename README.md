@@ -31,7 +31,7 @@ Built using **Java Servlets**, **JSP**, and **Bootstrap 5**, it provides a compl
 
 ## 🧩 Project Modules
 
-| Component                     | Description                                      |
+| Component                     | Description                                     |
 |------------------------------|--------------------------------------------------|
 | `index.jsp`                  | Entry page for Aadhaar & Voter ID input         |
 | `VerificationServlet.java`   | Validates user identity from DB                 |
